@@ -1,0 +1,19 @@
+html {
+    font-size: 18px;
+    margin: 40px;
+}
+
+.small-text {
+    font-size: 0.7rem;
+    padding-bottom: 40px;
+}
+.container {
+    background-color: lightgrey;
+    max-width: 500px ;
+    min-height: 400px ;
+    margin-left: auto;
+    margin-top: 40px;
+    margin-right: auto;
+    padding: 20px;
+
+}
